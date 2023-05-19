@@ -56,7 +56,7 @@ docker run -d --name midjourney-proxy \
 3. 在 [Issues](https://github.com/novicezk/midjourney-proxy/issues) 中提出其他问题或建议
 4. 感兴趣的朋友也欢迎加入交流群讨论一下
 
- <img src="https://raw.githubusercontent.com/novicezk/midjourney-proxy/main/docs/wechat-qrcode.png" width = "300" height = "300" alt="交流群二维码" align=center />
+ ![5d164e482bc1ae2404c754bda6edf55](https://github.com/BojianZhang/midjourney-proxy/assets/81281872/7a71ef8f-ead8-4a5a-a1e5-ff7cdf0a554a)
 
 ## 配置项
 
